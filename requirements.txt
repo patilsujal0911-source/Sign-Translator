@@ -1,7 +1,10 @@
-Flask==3.0.0
-Werkzeug==3.0.0
-Jinja2==3.1.2
-numpy>=1.21.0
-opencv-python>=4.5.0
-mediapipe>=0.8.0
-tensorflow>=2.8.0
+streamlit==1.46.1
+
+Flask==3.0.3
+Werkzeug==3.0.6
+Jinja2==3.1.6
+
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+mediapipe==0.10.14
+tensorflow==2.16.1
